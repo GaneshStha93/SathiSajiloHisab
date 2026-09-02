@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sathi Sajilo Hisab ERP",
+  "description": "Dynamic ERP Accounting Solution for small unofficial saving groups, dual BS/AD dates, Chart of Accounts, loan amortization, automated interest posting, financial statements, and Google Apps Script integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
